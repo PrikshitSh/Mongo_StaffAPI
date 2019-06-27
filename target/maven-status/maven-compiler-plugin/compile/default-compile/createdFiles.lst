@@ -1,0 +1,4 @@
+com\javatechie\spring\mongo\api\model\Staff.class
+com\javatechie\spring\mongo\api\repository\StaffRepository.class
+com\javatechie\spring\mongo\api\SwaggerExampleApplication.class
+com\javatechie\spring\mongo\api\resource\StaffController.class
